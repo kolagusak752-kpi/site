@@ -1,1 +1,1 @@
-console.log("qfweqfqw")
+console.log('Ok, yes')
